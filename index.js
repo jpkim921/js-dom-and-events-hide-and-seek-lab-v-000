@@ -11,11 +11,6 @@ function deepestChild () {
   return nodes[nodes.length - 1]
 }
 
-// function increaseRankBy (n) {
-//   const nodes = document.querySelectorAll('.ranked-list')
-// }
-
-
 function increaseRankBy(n) {
   const nodes = document.querySelectorAll('.ranked-list')
 
